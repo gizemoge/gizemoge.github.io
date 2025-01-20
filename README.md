@@ -5,6 +5,7 @@ Istanbul/Turkey, gizemoge2@gmail.com, [LinkedIn Profile], [Kaggle Profile]
   [LinkedIn Profile]: https://www.linkedin.com/in/gizemoge/  "LinkedIn Profile"
   [Kaggle Profile]: https://www.kaggle.com/gizemoge  "Kaggle Profile"
 
+---
 
 Career Objective
 -------------------------
