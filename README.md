@@ -1,5 +1,10 @@
 Data Scientist
 ================================
+Istanbul/Turkey, [LinkedIn Profile] [1], [Kaggle Profile] [2] 
+
+  [1]: https://www.linkedin.com/in/gizemoge/        "LinkedIn Profile"
+  [2]: https://www.kaggle.com/gizemoge  "Kaggle Profile"
+
 
 Career Objective
 -------------------------
