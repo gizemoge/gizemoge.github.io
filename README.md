@@ -14,6 +14,7 @@ Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative A
 
 **Languages:** English (Advanced)
 
+
 Education
 -------------------------
 - **Data Scientist Bootcamp** Miuul *(May 2024)*
@@ -23,10 +24,12 @@ Education
 - **B.Sc., Economics**
   Istanbul Technical University *(July 2022)*  
 
+
 Honors / Awards
 -------------------------
-*🥉Third Place Winner / AI for Life Sciences Virtual Hackathon / Provided by University of Vienna & Gradient Zero*
-*🥇First Place Winner / Women in Datathon / Provided by UP School & Bitexen*
+🥉Third Place Winner /* AI for Life Sciences Virtual Hackathon / Provided by University of Vienna & Gradient Zero*
+
+🥇First Place Winner /* Women in Datathon / Provided by UP School & Bitexen*
 
 YouTube Presentation: 
 [![AI 4 Life Sciences Challenge Number 2 - Team Hydroscope](https://img.youtube.com/vi/UTqxLyytgKM/0.jpg)](https://www.youtube.com/watch?v=UTqxLyytgKM)
