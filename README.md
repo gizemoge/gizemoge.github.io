@@ -24,8 +24,6 @@ Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative A
 
 Education
 -------------------------
-### deneme
-
 - **Data Scientist Bootcamp** Miuul *(May 2024)*
   
 - **Data Analytics Bootcamp** Aygaz, Global AI Hub *(July 2023)* 
@@ -45,6 +43,16 @@ Honors & Awards
 
 Projects & Certificates
 -------------------------
+### AI for Life Sciences Virtual Hackathon
+
+The project involved two tasks focused on forecasting groundwater levels in Austria and global freshwater reserves using machine learning
+models, while also analyzing the impact of exogenous variables. Drawing from knowledge gained in the AI Business School and the Time Series
+Econometrics course during my university studies, as well as skills from the Miuul Data Science Bootcamp, I contributed significantly to the
+project's success. For the first task, I developed an efficient data storage and processing system in Python to handle thousands of CSV datasets
+collected from various measurement stations, enabling accurate forecasting of groundwater levels in Austria over a 2-year period. I also helped
+optimize machine learning and deep learning models for improved performance. In the second task, I conducted a literature review on how to
+extract groundwater levels from NASA's GRACE global water mass anomaly data, identified suitable datasets, and contributed to feature
+engineering and model optimization. Our team placed 3rd out of 116 participants.
 
 YouTube Presentation: 
 [![AI 4 Life Sciences Challenge Number 2 - Team Hydroscope](https://img.youtube.com/vi/UTqxLyytgKM/0.jpg)](https://www.youtube.com/watch?v=UTqxLyytgKM)
