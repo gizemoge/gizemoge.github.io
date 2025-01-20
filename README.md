@@ -4,7 +4,9 @@ Data Scientist
 Career Objective
 -------------------------
 
-Grounded in a strong foundation in economics, finance, statistics, and academic research, with a commitment to solving complex challenges and delivering impactful business solutions. Passionate about leveraging data and AI to uncover actionable insights, optimize processes, and drive strategic decision-making. Currently participating in the Women in Data Science (WiDS) Datathon 2025.
+Grounded in a strong foundation of economics, finance, statistics, and academic research, with a focus on solving complex challenges and delivering impactful business solutions. Passionate about leveraging data and AI to uncover actionable insights, optimize processes, and drive strategic decision-making. 
+
+Currently participating in the Women in Data Science (WiDS) Datathon 2025.
 
 **Technical Knowledge:** Python, MS SQL, Stata, Power BI, MS Office, Git & GitHub, Machine Learning Modeling,
 Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative Analysis, Statistical Inference
