@@ -24,7 +24,7 @@ Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative A
 
 Education
 -------------------------
-# deneme
+### deneme
 
 - **Data Scientist Bootcamp** Miuul *(May 2024)*
   
