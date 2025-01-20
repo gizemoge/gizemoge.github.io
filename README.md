@@ -10,7 +10,7 @@ Currently participating in the Women in Data Science (WiDS) Datathon 2025.
 **Technical Knowledge:** Python, MS SQL, Stata, Power BI, MS Office, Git & GitHub, Machine Learning Modeling,
 Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative Analysis, Statistical Inference
 
-**Skills:** Teamwork, Adaptability, Problem-Solving, Project Management, Analytical Thinking, Time Management, Attention to Detail, Decision Making, Conflict Resolution, Collaboration, Interpersonal Skills
+**Skills:** Teamwork, Adaptability, Problem-Solving, Project Management, Decision Making, Analytical Thinking, Time Management, Attention to Detail
 
 **Languages:** English (Advanced)
 
