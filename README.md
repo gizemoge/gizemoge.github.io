@@ -35,7 +35,7 @@ Honors & Awards
 
 ---
 
-Projects / Certificates
+Projects & Certificates
 -------------------------
 
 YouTube Presentation: 
