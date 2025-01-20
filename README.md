@@ -9,7 +9,7 @@ Istanbul/Turkey, [Email](mailto:gizemoge2@gmail.com), [LinkedIn Profile], [Kaggl
 
 Career Objective
 -------------------------
-Grounded in a strong foundation of economics, finance, statistics, and academic research, with a focus on solving complex challenges and delivering impactful business solutions. Passionate about leveraging data and AI to uncover actionable insights, optimize processes, and drive strategic decision-making. 
+Grounded in a strong foundation of economics, finance, and academic research, with a focus on solving complex challenges and delivering impactful business solutions. Passionate about leveraging data and AI to uncover actionable insights, optimize processes, and drive strategic decision-making. 
 
 Currently participating in the Women in Data Science (WiDS) Datathon 2025.
 
