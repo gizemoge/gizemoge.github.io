@@ -14,6 +14,7 @@ Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative A
 
 **Languages:** English (Advanced)
 
+---
 
 Education
 -------------------------
@@ -24,6 +25,7 @@ Education
 - **B.Sc., Economics**
   Istanbul Technical University *(July 2022)*  
 
+---
 
 Honors / Awards
 -------------------------
