@@ -60,3 +60,5 @@ Istanbul Kodluyor is Turkey's first social impact bond, coordinated by the Minis
 
 The bootcamp covered topics such as feature engineering, MS SQL, machine learning, and Python, including over five real-world projects. The final project, **Churninator**, involved a team effort to develop a machine learning product predicting customer churn in a bank, achieving a 92% success rate. A Streamlit web app was created to showcase the product, featuring an interactive dashboard and using RFM analysis for customer segmentation.
 
+![image](https://github.com/user-attachments/assets/9d56242c-0c32-42d1-ac2b-363f858d79cd)
+
