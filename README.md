@@ -52,7 +52,6 @@ Freshwater is undoubtedly one of the most vital elements necessary for sustainin
 
 💧Task 2: Utilized NASA’s GRACE data to extract groundwater information through data mining and conducted a 5-year forecast, testing the impact of exogenous variables. Source code can be found [here](https://github.com/dilaracankaya/AI_4_Life_Sciences_Hackathon2_Task2).
 
-
-Click on image to watch YouTube Presentation: 
 [![AI 4 Life Sciences Challenge Number 2 - Team Hydroscope](https://img.youtube.com/vi/UTqxLyytgKM/0.jpg)](https://www.youtube.com/watch?v=UTqxLyytgKM)
+*Click on the image to watch the YouTube presentation.*
 
