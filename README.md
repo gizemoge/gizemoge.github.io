@@ -47,14 +47,11 @@ Projects & Certificates
 
 Freshwater is undoubtedly one of the most vital elements necessary for sustaining life, if not the most crucial. The aim of the project in this virtual hackathon, a challenge set by the University of Vienna, is to forecast groundwater levels and investigate the exogenous variables that significantly affect water level fluctuations. Throughout this challenge, machine learning techniques were optimized, and time series analysis was conducted through 2 tasks.
 
-💧Task 1: Forecasted groundwater levels in Austria over a 2-year period using data from 487 measurement stations, thousands of CSV files, and 11 variables categorized under groundwater, precipitation, water source, and surface water, achieving a 0.15 SMAPE score. Source code can be found clicking in here: [Source Code](//github.com/gizemoge/AI_4_Life_Sciences_Hackathon2_Task1)
+💧Task 1: Forecasted groundwater levels in Austria over a 2-year period using data from 487 measurement stations, thousands of CSV files, and 11 variables categorized under groundwater, precipitation, water source, and surface water, achieving a 0.15 SMAPE score. Source code can be found [here](https://github.com/gizemoge/AI_4_Life_Sciences_Hackathon2_Task1).
 
 
+💧Task 2: Utilized NASA’s GRACE data to extract groundwater information through data mining and conducted a 5-year forecast, testing the impact of exogenous variables. Source code can be found [here](https://github.com/dilaracankaya/AI_4_Life_Sciences_Hackathon2_Task2).
 
-💧Task 2: Utilized NASA’s GRACE data to extract groundwater information through data mining and conducted a 5-year forecast, testing the impact of exogenous variables.
-
-GitHub Repository: 
-https://github.com/dilaracankaya/AI_4_Life_Sciences_Hackathon2_Task2
 
 YouTube Presentation: 
 [![AI 4 Life Sciences Challenge Number 2 - Team Hydroscope](https://img.youtube.com/vi/UTqxLyytgKM/0.jpg)](https://www.youtube.com/watch?v=UTqxLyytgKM)
