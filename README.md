@@ -61,7 +61,8 @@ Freshwater is undoubtedly one of the most vital elements necessary for sustainin
 A machine learning prediction model was constructed to observe the impact of health status, labor force participation, gender roles, and political representation on wage inequality in the context of gender roles. Additionally, the influence of gender roles on job placement was investigated. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
 
 [![Women in Datathon First Place Winners](https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg)](https://www.youtube.com/watch?v=c_L3OH6Hng4)
-<small>*Click on the image to watch the YouTube presentation.*</small>
+<dd><small>*Click on the image to watch the YouTube presentation.*</small></dd>
+
 
 
 <br><br/>
