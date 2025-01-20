@@ -27,7 +27,7 @@ Education
 
 ---
 
-Honors / Awards
+Honors & Awards
 -------------------------
 🥉Third Place Winner — *AI for Life Sciences Virtual Hackathon provided by University of Vienna & Gradient Zero*
 
