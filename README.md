@@ -16,7 +16,7 @@ Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative A
 
 Education
 -------------------------
-- ***B.Sc., Economics**
+- **B.Sc., Economics**
   Istanbul Technical University *(July 2022)*  
 
 Career Objective
