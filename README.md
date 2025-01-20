@@ -58,6 +58,11 @@ Freshwater is undoubtedly one of the most vital elements necessary for sustainin
 <br><br/>
 ### Women in Datathon
 
+This project aimed to analyze gender equality data to foster societal awareness. We developed two machine learning models: one to examine
+the impact of health status, labor force participation, gender roles, and political representation on wage inequality, and another to explore
+gender roles' influence on job placement. I contributed to diversifying the provided datasets, incorporating data from organizations like the
+World Bank. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
+
 [![Women in Datathon First Place Winners](https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg)](https://www.youtube.com/watch?v=c_L3OH6Hng4)
 *Click on the image to watch the YouTube presentation.*
 
@@ -65,7 +70,7 @@ Freshwater is undoubtedly one of the most vital elements necessary for sustainin
 ### Churninator
 Istanbul Kodluyor is Turkey's first social impact bond, coordinated by the Ministry of Industry and Technology and implemented by the Istanbul Development Agency (İSTKA), with investment from Bridges Outcomes Partnerships. The training was provided by Enocta and managed by Tobeto. After completing preparatory courses in programming, software development, and data science with Enocta, participants gained membership in the Istanbul Kodluyor Project and access to Miuul's Data Scientist Bootcamp.
 
-The bootcamp covered topics such as feature engineering, MS SQL, machine learning, and Python, including over five real-world projects. The final project, **Churninator**, involved a team effort to develop a machine learning product predicting customer churn in a bank, achieving a 92% success rate. A Streamlit web app was created to showcase the product, featuring an interactive dashboard and using RFM analysis for customer segmentation.
+The bootcamp covered topics such as feature engineering, MS SQL, machine learning, and Python, including over five real-world projects. The final project, **Churninator**, involved a team effort to develop a machine learning product predicting customer churn in a bank, achieving a 92% success rate. A Streamlit web app was created to showcase the product, featuring an interactive dashboard and using RFM analysis for customer segmentation. Source code can be found [here](https://github.com/EdaCelikeloglu/Churninator).
 
 ![image](https://github.com/user-attachments/assets/9d56242c-0c32-42d1-ac2b-363f858d79cd)
 
