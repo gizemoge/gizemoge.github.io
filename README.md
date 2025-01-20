@@ -31,7 +31,7 @@ Honors & Awards
 -------------------------
 🥉Third Place Winner — *AI for Life Sciences Virtual Hackathon provided by University of Vienna & Gradient Zero*
 
-🥇First Place Winner — *Women in Datathon ğrovided by UP School & Bitexen*
+🥇First Place Winner — *Women in Datathon provided by UP School & Bitexen*
 
 ---
 
