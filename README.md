@@ -16,6 +16,12 @@ Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative A
 
 Education
 -------------------------
+- **Data Scientist Bootcamp**  
+  Miuul *(May 2024)*
+  
+- **Data Analytics Bootcamp**  
+  Aygaz, Global AI Hub *(July 2023)* 
+
 - **B.Sc., Economics**
   Istanbul Technical University *(July 2022)*  
 
