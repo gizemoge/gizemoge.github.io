@@ -13,6 +13,8 @@ Time Series Forecasting, Econometric Modeling, Academic Research, Quantitative A
 
 **Skills:** Teamwork, Adaptability, Problem-Solving, Project Management, Analytical Thinking, Time Management, Attention to Detail, Decision Making, Conflict Resolution, Collaboration, Interpersonal Skills
 
+**Languages:** English (Advanced)
+
 Career Objective
 -------------------------
 
