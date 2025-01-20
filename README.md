@@ -1,9 +1,10 @@
 Data Scientist
 ================================
-Istanbul/Turkey, gizemoge2@gmail.com, [LinkedIn Profile], [Kaggle Profile]  
+Istanbul/Turkey, [gizemoge2@gmail.com], [LinkedIn Profile], [Kaggle Profile]  
 
-  [LinkedIn Profile]: https://www.linkedin.com/in/gizemoge/  "LinkedIn Profile"
-  [Kaggle Profile]: https://www.kaggle.com/gizemoge  "Kaggle Profile"
+  [LinkedIn Profile]: https://www.linkedin.com/in/gizemoge/  
+  [Kaggle Profile]: https://www.kaggle.com/gizemoge  
+  [gizemoge2@gmail.com]: gizemoge2@gmail.com
 
 ---
 
