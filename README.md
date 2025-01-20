@@ -45,14 +45,16 @@ Projects & Certificates
 -------------------------
 ### AI for Life Sciences Virtual Hackathon
 
-The project involved two tasks focused on forecasting groundwater levels in Austria and global freshwater reserves using machine learning
-models, while also analyzing the impact of exogenous variables. Drawing from knowledge gained in the AI Business School and the Time Series
-Econometrics course during my university studies, as well as skills from the Miuul Data Science Bootcamp, I contributed significantly to the
-project's success. For the first task, I developed an efficient data storage and processing system in Python to handle thousands of CSV datasets
-collected from various measurement stations, enabling accurate forecasting of groundwater levels in Austria over a 2-year period. I also helped
-optimize machine learning and deep learning models for improved performance. In the second task, I conducted a literature review on how to
-extract groundwater levels from NASA's GRACE global water mass anomaly data, identified suitable datasets, and contributed to feature
-engineering and model optimization. Our team placed 3rd out of 116 participants.
+Freshwater is undoubtedly one of the most vital elements necessary for sustaining life, if not the most crucial. The aim of the project in this virtual hackathon, a challenge set by the University of Vienna, is to forecast groundwater levels and investigate the exogenous variables that significantly affect water level fluctuations. Throughout this challenge, machine learning techniques were optimized, and time series analysis was conducted through 2 tasks.
+
+💧Task 1: Forecasted groundwater levels in Austria over a 2-year period using data from 487 measurement stations, thousands of CSV files, and 11 variables categorized under groundwater, precipitation, water source, and surface water, achieving a 0.15 SMAPE score. Source code can be found clicking in here: https: [Source Code](//github.com/gizemoge/AI_4_Life_Sciences_Hackathon2_Task1)
+
+
+
+💧Task 2: Utilized NASA’s GRACE data to extract groundwater information through data mining and conducted a 5-year forecast, testing the impact of exogenous variables.
+
+GitHub Repository: 
+https://github.com/dilaracankaya/AI_4_Life_Sciences_Hackathon2_Task2
 
 YouTube Presentation: 
 [![AI 4 Life Sciences Challenge Number 2 - Team Hydroscope](https://img.youtube.com/vi/UTqxLyytgKM/0.jpg)](https://www.youtube.com/watch?v=UTqxLyytgKM)
