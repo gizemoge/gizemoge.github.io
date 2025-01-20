@@ -58,10 +58,7 @@ Freshwater is undoubtedly one of the most vital elements necessary for sustainin
 <br><br/>
 ### Women in Datathon
 
-This project aimed to analyze gender equality data to foster societal awareness. We developed two machine learning models: one to examine
-the impact of health status, labor force participation, gender roles, and political representation on wage inequality, and another to explore
-gender roles' influence on job placement. I contributed to diversifying the provided datasets, incorporating data from organizations like the
-World Bank. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
+A machine learning prediction model was constructed to observe the impact of health status, labor force participation, gender roles, and political representation on wage inequality in the context of gender roles. Additionally, the influence of gender roles on job placement was investigated. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
 
 [![Women in Datathon First Place Winners](https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg)](https://www.youtube.com/watch?v=c_L3OH6Hng4)
 *Click on the image to watch the YouTube presentation.*
