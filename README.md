@@ -55,4 +55,8 @@ Freshwater is undoubtedly one of the most vital elements necessary for sustainin
 [![AI 4 Life Sciences Challenge Number 2 - Team Hydroscope](https://img.youtube.com/vi/UTqxLyytgKM/0.jpg)](https://www.youtube.com/watch?v=UTqxLyytgKM)
 *Click on the image to watch the YouTube presentation.*
 
+### Churninator
+"Istanbul Kodluyor" is a project coordinated by the Ministry of Industry and Technology and implemented by the Istanbul Development Agency (İSTKA), with investment from Bridges Outcomes Partnerships. The training was provided by Enocta and managed by Tobeto. After completing preparatory courses in programming, software development, and data science with Enocta, participants gained membership in the Istanbul Kodluyor Project and access to Miuul's data science bootcamp.
+
+The bootcamp covered topics such as feature engineering, MS SQL, machine learning, and Python, including over five real-world projects. The final project, *Churninator*, involved a team effort to develop a machine learning product predicting customer churn in a bank, achieving a 92% success rate. A Streamlit web app was created to showcase the product, featuring an interactive dashboard and using RFM analysis for customer segmentation.
 
