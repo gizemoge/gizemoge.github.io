@@ -1,6 +1,6 @@
 Data Scientist
 ================================
-Istanbul/Turkey, [Gmail Address](mailto:gizemoge2@gmail.com), [LinkedIn Profile], [Kaggle Profile]  
+Istanbul/Turkey, [e-mail](mailto:gizemoge2@gmail.com), [LinkedIn Profile], [Kaggle Profile]  
 
   [LinkedIn Profile]: https://www.linkedin.com/in/gizemoge/  
   [Kaggle Profile]: https://www.kaggle.com/gizemoge  
