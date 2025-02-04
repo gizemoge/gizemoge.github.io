@@ -60,6 +60,7 @@ Projects & Certificates
 <a href="https://www.youtube.com/watch?v=UTqxLyytgKM">
     <img src="https://img.youtube.com/vi/UTqxLyytgKM/0.jpg" width="300">
 </a>
+
 <small>*Click on the image to watch the presentation video.*</small>
 
 <br><br/>
@@ -75,6 +76,7 @@ Projects & Certificates
 <a href="https://www.youtube.com/watch?v=c_L3OH6Hng4">
     <img src="https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg" width="300">
 </a>
+
 <small>*Click on the image to watch the presentation video.*</small>
 
 <br><br/>
