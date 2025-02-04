@@ -60,6 +60,11 @@ Projects & Certificates
 [![AI 4 Life Sciences Challenge Number 2 - Team Hydroscope](https://img.youtube.com/vi/UTqxLyytgKM/0.jpg)](https://www.youtube.com/watch?v=UTqxLyytgKM)
 <small>*Click on the image to watch the presentation video.*</small>
 
+<a href="https://www.youtube.com/watch?v=UTqxLyytgKM">
+    <img src="https://img.youtube.com/vi/UTqxLyytgKM/0.jpg" width="400">
+</a>
+
+
 <br><br/>
 ### Women in Datathon
 **Provided By:** UP School, Bitexen
