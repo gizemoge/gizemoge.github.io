@@ -57,10 +57,13 @@ Projects & Certificates
 
 💧Task 2: Utilized NASA’s GRACE data to extract groundwater information through data mining and conducted a 5-year forecast, testing the impact of exogenous variables. Source code can be found [here](https://github.com/dilaracankaya/AI_4_Life_Sciences_Hackathon2_Task2).
 
-<a href="https://www.youtube.com/watch?v=UTqxLyytgKM">
-    <img src="https://img.youtube.com/vi/UTqxLyytgKM/0.jpg" width="300">
-</a>
-<small>*Click on the image to watch the presentation video.*</small>
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=UTqxLyytgKM">
+        <img src="https://img.youtube.com/vi/UTqxLyytgKM/0.jpg" width="300">
+    </a>
+    <br>
+    <small><em>Click on the image to watch the presentation video.</em></small>
+</div>
 
 <br><br/>
 ### Women in Datathon
