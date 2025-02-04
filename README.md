@@ -83,7 +83,6 @@ Projects & Certificates
     <small><em>Click on the image to watch the presentation video.</em></small>
 </div>
 
-<small>*Click on the image to watch the presentation video.*</small>
 
 <br><br/>
 ### Churninator
