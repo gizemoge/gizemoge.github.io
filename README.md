@@ -43,6 +43,16 @@ Honors & Awards
 
 Projects & Certificates
 -------------------------
+### WiDS Datathon 2025
+**Provided By:** Women in Data Science (WiDS), Cornell University, UC Santa Barbara, Ann S. Bowers Women’s Brain Health Initiative (WBHI), Child Mind Institute (Healthy Brain Network), Reproducible Brain Charts (RBC)
+**Achievements:** Ongoing participation
+**Position:** Data Scientist
+**Time Span:** January 2025 – Present
+
+**About Project:** An international team is working to solve a challenge supporting the neurodivergent community. The task involves analyzing demographic, diagnostic, and functional MRI data to build a predictive model for diagnosing ADHD. The aim is to uncover brain regions associated with ADHD in relation to gender roles, which could contribute to improving personalized approaches to treatment and care.
+
+
+<br><br/>
 ### AI for Life Sciences Virtual Hackathon
 **Provided By:** University of Vienna, Gradient Zero, Daiki, Exoscale, Manna Laaz, E-duProof
 
