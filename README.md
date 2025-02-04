@@ -75,9 +75,13 @@ Projects & Certificates
 
 **About Project:** A machine learning prediction model was constructed to observe the impact of health status, labor force participation, gender roles, and political representation on wage inequality in the context of gender roles. Additionally, the influence of gender roles on job placement was investigated. The competition was hosted on Kaggle, and Python and Markdown Language were used to complete the project. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
 
-<a href="https://www.youtube.com/watch?v=c_L3OH6Hng4">
-    <img src="https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg" width="300">
-</a>
+<div align="center">
+    <a href="https://www.youtube.com/watch?v=c_L3OH6Hng4">
+        <img src="https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg" width="300">
+    </a>
+    <br>
+    <small><em>Click on the image to watch the presentation video.</em></small>
+</div>
 
 <small>*Click on the image to watch the presentation video.*</small>
 
