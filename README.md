@@ -58,7 +58,7 @@ Projects & Certificates
 💧Task 2: Utilized NASA’s GRACE data to extract groundwater information through data mining and conducted a 5-year forecast, testing the impact of exogenous variables. Source code can be found [here](https://github.com/dilaracankaya/AI_4_Life_Sciences_Hackathon2_Task2).
 
 <a href="https://www.youtube.com/watch?v=UTqxLyytgKM">
-    <img src="https://img.youtube.com/vi/UTqxLyytgKM/0.jpg" width="400">
+    <img src="https://img.youtube.com/vi/UTqxLyytgKM/0.jpg" width="300">
 </a>
 <small>*Click on the image to watch the presentation video.*</small>
 
@@ -73,7 +73,7 @@ Projects & Certificates
 **About Project:** A machine learning prediction model was constructed to observe the impact of health status, labor force participation, gender roles, and political representation on wage inequality in the context of gender roles. Additionally, the influence of gender roles on job placement was investigated. The competition was hosted on Kaggle, and Python and Markdown Language were used to complete the project. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
 
 <a href="https://www.youtube.com/watch?v=c_L3OH6Hng4">
-    <img src="https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg" width="400">
+    <img src="https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg" width="300">
 </a>
 <small>*Click on the image to watch the presentation video.*</small>
 
