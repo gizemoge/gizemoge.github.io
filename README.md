@@ -44,6 +44,11 @@ Honors & Awards
 Projects & Certificates
 -------------------------
 ### WiDS Datathon 2025
+**Provided By:** Women in Data Science (WiDS), Cornell University, UC Santa Barbara, Ann S. Bowers Women’s Brain Health Initiative (WBHI), Child Mind Institute (Healthy Brain Network), Reproducible Brain Charts (RBC)<br>
+**Achievements:** Ongoing participation<br>
+**Position:** Data Scientist<br>
+**Time Span:** January 2025 – Present
+
 **Provided By:** Women in Data Science (WiDS), Cornell University, UC Santa Barbara, Ann S. Bowers Women’s Brain Health Initiative (WBHI), Child Mind Institute (Healthy Brain Network), Reproducible Brain Charts (RBC)
 **Achievements:** Ongoing participation
 **Position:** Data Scientist
