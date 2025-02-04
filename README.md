@@ -47,23 +47,17 @@ Projects & Certificates
 **Provided By:** Women in Data Science (WiDS), Cornell University, UC Santa Barbara, Ann S. Bowers Women’s Brain Health Initiative (WBHI), Child Mind Institute (Healthy Brain Network), Reproducible Brain Charts (RBC)<br>
 **Achievements:** Ongoing participation<br>
 **Position:** Data Scientist<br>
-**Time Span:** January 2025 – Present
-
-**Provided By:** Women in Data Science (WiDS), Cornell University, UC Santa Barbara, Ann S. Bowers Women’s Brain Health Initiative (WBHI), Child Mind Institute (Healthy Brain Network), Reproducible Brain Charts (RBC)
-**Achievements:** Ongoing participation
-**Position:** Data Scientist
-**Time Span:** January 2025 – Present
+**Duration:** January 2025 – Present
 
 **About Project:** An international team is working to solve a challenge supporting the neurodivergent community. The task involves analyzing demographic, diagnostic, and functional MRI data to build a predictive model for diagnosing ADHD. The aim is to uncover brain regions associated with ADHD in relation to gender roles, which could contribute to improving personalized approaches to treatment and care.
 
 
 <br><br/>
 ### AI for Life Sciences Virtual Hackathon
-**Provided By:** University of Vienna, Gradient Zero, Daiki, Exoscale, Manna Laaz, E-duProof
-
-**Achievements:** Placed 3rd
-
-**Position:** Data Scientist
+**Provided By:** University of Vienna, Gradient Zero, Daiki, Exoscale, Manna Laaz, E-duProof<br>
+**Achievements:** Placed 3rd<br>
+**Position:** Data Scientist<br>
+**Duration:** June 2024 – October 2024
 
 **About Project:** Freshwater is undoubtedly one of the most vital elements necessary for sustaining life, if not the most crucial. The aim of the project in this virtual hackathon, a challenge set by the University of Vienna, is to forecast groundwater levels and investigate the exogenous variables that significantly affect water level fluctuations. Throughout this challenge, machine learning techniques were optimized, and time series analysis was conducted through 2 tasks.
 
@@ -82,11 +76,10 @@ Projects & Certificates
 
 <br><br/>
 ### Women in Datathon
-**Provided By:** UP School, Bitexen
-
-**Achievements:** Placed 1st
-
-**Position:** Data Scientist
+**Provided By:** UP School, Bitexen<br>
+**Achievements:** Placed 1st<br>
+**Position:** Data Scientist<br>
+**Duration:** April 2024
 
 **About Project:** A machine learning prediction model was constructed to observe the impact of health status, labor force participation, gender roles, and political representation on wage inequality in the context of gender roles. Additionally, the influence of gender roles on job placement was investigated. The competition was hosted on Kaggle, and Python and Markdown Language were used to complete the project. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
 
