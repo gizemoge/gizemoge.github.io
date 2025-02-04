@@ -50,7 +50,7 @@ Projects & Certificates
 
 **Position:** Data Scientist
 
-**Abaout Project:** Freshwater is undoubtedly one of the most vital elements necessary for sustaining life, if not the most crucial. The aim of the project in this virtual hackathon, a challenge set by the University of Vienna, is to forecast groundwater levels and investigate the exogenous variables that significantly affect water level fluctuations. Throughout this challenge, machine learning techniques were optimized, and time series analysis was conducted through 2 tasks.
+**About Project:** Freshwater is undoubtedly one of the most vital elements necessary for sustaining life, if not the most crucial. The aim of the project in this virtual hackathon, a challenge set by the University of Vienna, is to forecast groundwater levels and investigate the exogenous variables that significantly affect water level fluctuations. Throughout this challenge, machine learning techniques were optimized, and time series analysis was conducted through 2 tasks.
 
 💧Task 1: Forecasted groundwater levels in Austria over a 2-year period using data from 487 measurement stations, thousands of CSV files, and 11 variables categorized under groundwater, precipitation, water source, and surface water, achieving a 0.15 SMAPE score. Source code can be found [here](https://github.com/gizemoge/AI_4_Life_Sciences_Hackathon2_Task1).
 
@@ -72,6 +72,13 @@ A machine learning prediction model was constructed to observe the impact of hea
 
 <br><br/>
 ### Churninator
+**Provided By:** Miuul Data Scientist Bootcamp Final Project, Istanbul Kodluyor Project
+
+**Achievements:** Placed 2nd
+
+**Position:** Data Scientist
+
+**About Project:**
 Istanbul Kodluyor is Turkey's first social impact bond, coordinated by the Ministry of Industry and Technology and implemented by the Istanbul Development Agency (İSTKA), with investment from Bridges Outcomes Partnerships. The training was provided by Enocta and managed by Tobeto. After completing preparatory courses in programming, software development, and data science with Enocta, participants gained membership in the Istanbul Kodluyor Project and access to Miuul's Data Scientist Bootcamp.
 
 The bootcamp covered topics such as feature engineering, MS SQL, machine learning, and Python, including over five real-world projects. The final project, **Churninator**, involved a team effort to develop a machine learning product predicting customer churn in a bank, achieving a 92% success rate. A Streamlit web app was created to showcase the product, featuring an interactive dashboard and using RFM analysis for customer segmentation. Source code can be found [here](https://github.com/EdaCelikeloglu/Churninator).
