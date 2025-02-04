@@ -44,8 +44,10 @@ Honors & Awards
 Projects & Certificates
 -------------------------
 ### AI for Life Sciences Virtual Hackathon
-
-Freshwater is undoubtedly one of the most vital elements necessary for sustaining life, if not the most crucial. The aim of the project in this virtual hackathon, a challenge set by the University of Vienna, is to forecast groundwater levels and investigate the exogenous variables that significantly affect water level fluctuations. Throughout this challenge, machine learning techniques were optimized, and time series analysis was conducted through 2 tasks.
+**Provided By:** University of Vienna, Gradient Zero, Daiki, Exoscale, Manna Laaz, E-duProof
+**Achievements:** Placed 3rd
+**Position:** Data Scientist
+**Abaout Project:** Freshwater is undoubtedly one of the most vital elements necessary for sustaining life, if not the most crucial. The aim of the project in this virtual hackathon, a challenge set by the University of Vienna, is to forecast groundwater levels and investigate the exogenous variables that significantly affect water level fluctuations. Throughout this challenge, machine learning techniques were optimized, and time series analysis was conducted through 2 tasks.
 
 💧Task 1: Forecasted groundwater levels in Austria over a 2-year period using data from 487 measurement stations, thousands of CSV files, and 11 variables categorized under groundwater, precipitation, water source, and surface water, achieving a 0.15 SMAPE score. Source code can be found [here](https://github.com/gizemoge/AI_4_Life_Sciences_Hackathon2_Task1).
 
