@@ -94,11 +94,10 @@ Projects & Certificates
 
 <br><br/>
 ### Churninator
-**Provided By:** Miuul Data Scientist Bootcamp Final Project, Istanbul Kodluyor Project
-
-**Achievements:** Placed 2nd
-
-**Position:** Data Scientist
+**Provided By:** Miuul Data Scientist Bootcamp Final Project, Istanbul Kodluyor Project<br>
+**Achievements:** Placed 2nd<br>
+**Position:** Data Scientist<br>
+**Duration:** February 2024 - May 2024
 
 **About Project:** Istanbul Kodluyor is Turkey's first social impact bond, coordinated by the Ministry of Industry and Technology and implemented by the Istanbul Development Agency (İSTKA), with investment from Bridges Outcomes Partnerships. The training was provided by Enocta and managed by Tobeto. After completing preparatory courses in programming, software development, and data science with Enocta, participants gained membership in the Istanbul Kodluyor Project and access to Miuul's Data Scientist Bootcamp.
 
