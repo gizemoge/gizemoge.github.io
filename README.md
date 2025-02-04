@@ -62,8 +62,13 @@ Projects & Certificates
 
 <br><br/>
 ### Women in Datathon
+**Provided By:** UP School, Bitexen
 
-A machine learning prediction model was constructed to observe the impact of health status, labor force participation, gender roles, and political representation on wage inequality in the context of gender roles. Additionally, the influence of gender roles on job placement was investigated. The competition was hosted on Kaggle, and Python and Markdown Language were used to complete the project. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
+**Achievements:** Placed 1st
+
+**Position:** Data Scientist
+
+**About Project:** A machine learning prediction model was constructed to observe the impact of health status, labor force participation, gender roles, and political representation on wage inequality in the context of gender roles. Additionally, the influence of gender roles on job placement was investigated. The competition was hosted on Kaggle, and Python and Markdown Language were used to complete the project. Here is the [Kaggle Notebook](https://www.kaggle.com/code/edacelikeloglu/1st-place-upschoolxbitexen-datathon-mar24).
 
 [![Women in Datathon First Place Winners](https://img.youtube.com/vi/c_L3OH6Hng4/0.jpg)](https://www.youtube.com/watch?v=c_L3OH6Hng4)
 <small>*Click on the image to watch the presentation video.*</small>
@@ -78,7 +83,6 @@ A machine learning prediction model was constructed to observe the impact of hea
 
 **Position:** Data Scientist
 
-**About Project:**
-Istanbul Kodluyor is Turkey's first social impact bond, coordinated by the Ministry of Industry and Technology and implemented by the Istanbul Development Agency (İSTKA), with investment from Bridges Outcomes Partnerships. The training was provided by Enocta and managed by Tobeto. After completing preparatory courses in programming, software development, and data science with Enocta, participants gained membership in the Istanbul Kodluyor Project and access to Miuul's Data Scientist Bootcamp.
+**About Project:** Istanbul Kodluyor is Turkey's first social impact bond, coordinated by the Ministry of Industry and Technology and implemented by the Istanbul Development Agency (İSTKA), with investment from Bridges Outcomes Partnerships. The training was provided by Enocta and managed by Tobeto. After completing preparatory courses in programming, software development, and data science with Enocta, participants gained membership in the Istanbul Kodluyor Project and access to Miuul's Data Scientist Bootcamp.
 
 The bootcamp covered topics such as feature engineering, MS SQL, machine learning, and Python, including over five real-world projects. The final project, **Churninator**, involved a team effort to develop a machine learning product predicting customer churn in a bank, achieving a 92% success rate. A Streamlit web app was created to showcase the product, featuring an interactive dashboard and using RFM analysis for customer segmentation. Source code can be found [here](https://github.com/EdaCelikeloglu/Churninator).
