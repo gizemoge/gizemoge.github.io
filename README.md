@@ -43,7 +43,6 @@ Honors & Awards
 
 Projects & Certificates
 -------------------------
-<br><br/>
 ### AI for Life Sciences Virtual Hackathon
 **Provided By:** University of Vienna, Gradient Zero, Daiki, Exoscale, Manna Laaz, E-duProof
 
