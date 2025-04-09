@@ -1,4 +1,3 @@
-================================
 Istanbul/Turkey, [Email](mailto:gizemoge2@gmail.com), [LinkedIn Profile], [Kaggle Profile]  
 
   [LinkedIn Profile]: https://www.linkedin.com/in/gizemoge/  
